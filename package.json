@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wujingjing2024/codecraftmaster"
+    "url": "https://github.com/ivanaqd7024/codecraftmaster"
   },
-  "website": "https://github.com/wujingjing2024/codecraftmaster.git",
+  "website": "https://github.com/ivanaqd7024/codecraftmaster.git",
   "keywords": [
     "codecraftmaster"
   ],
-  "author": "wujingjing2024",
+  "author": "ivanaqd7024",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wujingjing2024/codecraftmaster/issues"
+    "url": "https://github.com/ivanaqd7024/codecraftmaster/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/wujingjing2024/codecraftmaster#readme",
+  "homepage": "https://github.com/ivanaqd7024/codecraftmaster#readme",
   "dependencies": {
 		"devprophet": "1.0.2",
 		"programcraftkit": "1.0.2",
